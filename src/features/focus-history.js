@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   title: {
     color: colors.white,
     fontSize: fontSizes.sm,
-    fontWeight: 700,
+    fontWeight: 'bold',
     borderStyle: 'solid',
     borderBottomWidth: 1,
     borderBottomColor: colors.white,
